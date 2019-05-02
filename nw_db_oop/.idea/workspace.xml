@@ -2,6 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a567df6-492d-46a0-b126-1dcb0c76bacc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../db-homework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/db_hw2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dog_exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dog_exercise/main_runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/json_basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/json_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/json_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/.idea/oop-db-ships-fruits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/boat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/db_connect_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/main_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/try_database.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../db-connect-python" beforeDir="false" afterPath="$PROJECT_DIR$/../db-connect-python" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../db-homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../db-homework/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dog_exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dog_exercise/.idea/workspace.xml" afterDir="false" />
@@ -9,6 +31,8 @@
       <change beforePath="$PROJECT_DIR$/../dog_exercise/dog_lesson.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dog_exercise/dog_lesson.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dog_exercise/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dog_exercise/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../error_handling_and_opening_files" beforeDir="false" afterPath="$PROJECT_DIR$/../error_handling_and_opening_files" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nw_products.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="271">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -58,7 +82,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -69,18 +93,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/nw_db_oop.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="881" />
+    <option name="x" value="171" />
     <option name="y" value="-9" />
     <option name="width" value="718" />
     <option name="height" value="348" />
@@ -187,9 +201,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14200793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13997395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -197,7 +212,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3196159" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nw_products.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="271">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
         </state>
       </provider>
     </entry>

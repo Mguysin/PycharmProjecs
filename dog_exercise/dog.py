@@ -27,12 +27,11 @@ list_of_dogs.append(dog_5)
 
 dog_groups=[]
 
-group_1 = [dog_1, dog_3, dog_5]
-group_2 = [dog_2, dog_4, dog_5]
-group_3 = [dog_2, dog_3, dog_4]
+group_1 = [dog_1.name, dog_3.name, dog_5.name]
+group_2 = [dog_2.name, dog_4.name, dog_5.name]
+group_3 = [dog_2.name, dog_3.name, dog_4.name]
 
-for dog in group_1:
-    print(dog.name)
+
 
 # dog_groups.append(group_1)
 # dog_groups.append(group_2)

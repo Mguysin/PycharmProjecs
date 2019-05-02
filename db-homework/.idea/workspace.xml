@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05fad4df-aa8e-4bc5-bfa0-4cf0241323bd" name="Default Changelist" comment="" />
+    <list default="true" id="05fad4df-aa8e-4bc5-bfa0-4cf0241323bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/db_hw2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db_hw2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dog_exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dog_exercise/main_runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/json_basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/json_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json_basic/json_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/boat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/db_connect_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/main_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-db-ships-fruits/try_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db-connect-python" beforeDir="false" afterPath="$PROJECT_DIR$/../db-connect-python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dog_exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dog_exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dog_exercise/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dog_exercise/dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dog_exercise/dog_lesson.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dog_exercise/dog_lesson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dog_exercise/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dog_exercise/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error_handling_and_opening_files" beforeDir="false" afterPath="$PROJECT_DIR$/../error_handling_and_opening_files" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nw_db_oop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nw_db_oop/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nw_db_oop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nw_db_oop/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/connection-test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="561">
+              <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -28,6 +59,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -36,11 +70,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="836" />
-    <option name="y" value="-34" />
-    <option name="width" value="1120" />
-    <option name="height" value="544" />
+    <option name="x" value="62" />
+    <option name="y" value="-9" />
+    <option name="width" value="1750" />
+    <option name="height" value="850" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -61,6 +96,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -121,7 +157,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14795244" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14583333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -129,7 +165,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3196159" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -142,8 +178,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/connection-test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="561">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
         </state>
       </provider>
     </entry>
